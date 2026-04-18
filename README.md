@@ -15,4 +15,4 @@ Exploitations: Metasploit, Searchsploit, manual exploit
 
 Post-Exploitation: LinPEAS, WinPEAS
 
-Scripting: Python< Bash
+Scripting: Python, Bash
